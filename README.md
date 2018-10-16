@@ -5,5 +5,5 @@ Paper List:
 (3)Inference Suboptimality in Variational Autoencoders  
 (4)Tutorial on Variational Autoencoders  
 (5)Nice: Non-Linear Independent Component  
-(6)The Deconfounded Recommender: A causul Inference Approach to Recommendation  
+(6)The Deconfounded Recommender: A causal Inference Approach to Recommendation  
 
