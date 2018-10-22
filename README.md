@@ -7,4 +7,5 @@ Paper List:
 (5)Nice: Non-Linear Independent Component  
 (6)The Deconfounded Recommender: A causal Inference Approach to Recommendation  
 (7)Modeling User Exposure in Recommendation  
+(8)Collaborative Filtering with Social Exposure:A Modular Approach to Social Recommendation  
 
