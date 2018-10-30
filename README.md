@@ -9,5 +9,5 @@ Paper List:
 (7)Modeling User Exposure in Recommendation  
 (8)Collaborative Filtering with Social Exposure:A Modular Approach to Social Recommendation  
 (9)Prediction of Sparse User-Item Consumption Rates with Zero-Inflated Poisson Regression  
-
+(10)Collaborative Variational Autoencoder for Recommender Systems  
 
