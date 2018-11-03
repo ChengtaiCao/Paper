@@ -11,3 +11,5 @@ Paper List:
 (9)Prediction of Sparse User-Item Consumption Rates with Zero-Inflated Poisson Regression  
 (10)Collaborative Variational Autoencoder for Recommender Systems  
 (11)Variational Autoencoders for Collaborative Filtering  
+(12)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
+(13)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
