@@ -12,4 +12,4 @@ Paper List:
 (10)Collaborative Variational Autoencoder for Recommender Systems  
 (11)Variational Autoencoders for Collaborative Filtering  
 (12)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
-(13)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
+(13)One-shot Learning with Memory-Augmented Neural Networks  
