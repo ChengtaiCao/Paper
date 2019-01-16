@@ -11,3 +11,7 @@
 >>Meta-Learning for Semi-Supervised Few-Shot Classification  
 >>Meta-Learning:A Survey  
 >>Meta-Learning with Memory-Augmented Neural Networks  
+>>A Comprehensive Survey on Graph Neural Networks  
+>>Attention Models in Graphs: A Survey  
+>>Deep Learning on Graphs: A Survey  
+>>Graph Neural Networks: A Review of Methods and Applications  
