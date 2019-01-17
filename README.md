@@ -6,9 +6,9 @@
 >>Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
 >>Federated Meta-Learning for Recommendation  
 >>Taking Human out of Learning Applications:A Survey on Automated Machine Learning  
+>>Meta-Learning for Semi-Supervised Few-Shot Classification  
 
 >Papers I'm going to read:
->>Meta-Learning for Semi-Supervised Few-Shot Classification  
 >>Meta-Learning:A Survey  
 >>Meta-Learning with Memory-Augmented Neural Networks  
 >>A Comprehensive Survey on Graph Neural Networks  
