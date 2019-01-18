@@ -15,5 +15,6 @@
 >>Attention Models in Graphs: A Survey  
 >>Deep Learning on Graphs: A Survey  
 >>Graph Neural Networks: A Review of Methods and Applications  
->>A+Comprehensive+Survey+of+Graph+Embedding+Problems,+Techniques+and+Applications  
+>>A Comprehensive Survey of Graph Embedding Problems,Techniques andApplications  
+
 
