@@ -12,11 +12,6 @@
 >Papers I'm going to read:
 >>Meta-Learning:A Survey  
 >>Meta-Learning with Memory-Augmented Neural Networks  
->>A Comprehensive Survey on Graph Neural Networks  
->>Attention Models in Graphs: A Survey  
->>Deep Learning on Graphs: A Survey  
->>Graph Neural Networks: A Review of Methods and Applications  
->>A Comprehensive Survey of Graph Embedding Problems,Techniques andApplications  
 >>Unsupervised learning via meta-learning  
 
 
