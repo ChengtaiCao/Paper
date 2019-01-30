@@ -7,6 +7,7 @@
 >>Federated Meta-Learning for Recommendation  
 >>Taking Human out of Learning Applications:A Survey on Automated Machine Learning  
 >>Meta-Learning for Semi-Supervised Few-Shot Classification  
+>>Adversarial attacks on graph neural networks via meta learning  
 
 >Papers I'm going to read:
 >>Meta-Learning:A Survey  
