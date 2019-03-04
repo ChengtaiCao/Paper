@@ -9,6 +9,8 @@
 >>Meta-Learning for Semi-Supervised Few-Shot Classification  
 >>Adversarial attacks on graph neural networks via meta learning  
 >>Unsupervised learning via meta-learning  
+>>How Powerful are Graph Neural Network  
+
 
 >Papers I'm going to read:
 >>Meta-Learning: A Survey  
