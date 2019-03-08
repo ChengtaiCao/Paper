@@ -1,17 +1,17 @@
 >Papers that has been read:
->>Auto-Encoding Variational Bayes  
->>Tutorial on Variational Autoencoders  
->>Nice: Non-Linear Independent Components Estimation  
->>A Meta-Learning Perspective on Cold-Start Recommendation for Items  
->>Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
->>Federated Meta-Learning for Recommendation  
->>Taking Human out of Learning Applications: A Survey on Automated Machine Learning  
->>Meta-Learning for Semi-Supervised Few-Shot Classification  
->>Adversarial attacks on graph neural networks via meta learning  
->>Unsupervised learning via meta-learning  
->>Graph Classification using Structural Attention  
->>How Powerful are Graph Neural Network  
->>Simplifying Graph Convolutional Networks  
+>>(01)Auto-Encoding Variational Bayes  
+>>(02)Tutorial on Variational Autoencoders  
+>>(03)Nice: Non-Linear Independent Components Estimation  
+>>(04)A Meta-Learning Perspective on Cold-Start Recommendation for Items  
+>>(05)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks  
+>>(06)Federated Meta-Learning for Recommendation  
+>>(07)Taking Human out of Learning Applications: A Survey on Automated Machine Learning  
+>>(08)Meta-Learning for Semi-Supervised Few-Shot Classification  
+>>(09)Adversarial attacks on graph neural networks via meta learning  
+>>(10)Unsupervised learning via meta-learning  
+>>(11)Graph Classification using Structural Attention  
+>>(12)How Powerful are Graph Neural Network  
+>>(13)Simplifying Graph Convolutional Networks  
 
 
 >Papers I'm going to read:
@@ -20,5 +20,4 @@
 >>Deep Learning based Recommender System: A Survey and New Perspectives  
 >>Probabilistic Model-Agnostic Meta-Learning  
 >>Meta-Learning and Universality: Deep Representation and Gradient Desecnt Can Approximate Any Learning Algorithm  
-
 
