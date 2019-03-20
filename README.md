@@ -13,6 +13,7 @@
 >>(12)How Powerful are Graph Neural Network  
 >>(13)Simplifying Graph Convolutional Networks  
 >>(14)Few-shot Classification on Graphs with Structural Regularized GCNs  
+>>(15)Semi-Supervised Classification with Graph Convolutional Networks  
 
 
 >Papers I'm going to read:
