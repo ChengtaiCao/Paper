@@ -1,4 +1,4 @@
->Papers that has been read:
+>Papers that hava been read:
 >>(01)Auto-Encoding Variational Bayes  
 >>(02)Tutorial on Variational Autoencoders  
 >>(03)Nice: Non-Linear Independent Components Estimation  
@@ -14,6 +14,7 @@
 >>(13)Simplifying Graph Convolutional Networks  
 >>(14)Few-shot Classification on Graphs with Structural Regularized GCNs  
 >>(15)Semi-Supervised Classification with Graph Convolutional Networks  
+>>(16)Graph Attention Networks  
 
 
 >Papers I'm going to read:
