@@ -15,6 +15,8 @@
 >>(14)Few-shot Classification on Graphs with Structural Regularized GCNs  
 >>(15)Semi-Supervised Classification with Graph Convolutional Networks  
 >>(16)Graph Attention Networks  
+>>(17)Geometric deep learning on graphs and manifolds using mixture model CNNs  
+
 
 
 >Papers I'm going to read:
