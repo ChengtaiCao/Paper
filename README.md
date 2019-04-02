@@ -16,6 +16,7 @@
 >>(15)Semi-Supervised Classification with Graph Convolutional Networks  
 >>(16)Graph Attention Networks  
 >>(17)Geometric deep learning on graphs and manifolds using mixture model CNNs  
+>>(18)Inductive Representation Learning on Large Graphs  
 
 
 
