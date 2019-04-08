@@ -17,7 +17,7 @@
 >>(16)Graph Attention Networks  
 >>(17)Geometric deep learning on graphs and manifolds using mixture model CNNs  
 >>(18)Inductive Representation Learning on Large Graphs  
-
+>>(19)Identifying opinion leader nodes in online social networks with a new closeness evaluation algorithm  
 
 
 >Papers I'm going to read:
