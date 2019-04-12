@@ -18,6 +18,8 @@
 >>(17)Geometric deep learning on graphs and manifolds using mixture model CNNs  
 >>(18)Inductive Representation Learning on Large Graphs  
 >>(19)Identifying opinion leader nodes in online social networks with a new closeness evaluation algorithm  
+>>(20)Graph Neural Networks:A Review of Methods and Applications  
+
 
 
 >Papers I'm going to read:
