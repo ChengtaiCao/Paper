@@ -20,7 +20,7 @@
 >>(19)Identifying opinion leader nodes in online social networks with a new closeness evaluation algorithm  
 >>(20)Graph Neural Networks:A Review of Methods and Applications  
 >>(21)Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning  
-
+>>(22)DeepWalk: Online Learning of Social Representations  
 
 
 >Papers I'm going to read:
