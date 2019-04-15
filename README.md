@@ -21,6 +21,8 @@
 >>(20)Graph Neural Networks:A Review of Methods and Applications  
 >>(21)Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning  
 >>(22)DeepWalk: Online Learning of Social Representations  
+>>(23)Prototypical networks for few-shot learning.  
+
 
 
 >Papers I'm going to read:
