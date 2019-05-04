@@ -23,6 +23,7 @@
 >>(22)DeepWalk: Online Learning of Social Representations  
 >>(23)Prototypical networks for few-shot learning.  
 >>(24)Siamese neural networks for one-shot image recognition  
+>>(25)Learning a Similarity Metric Discriminatively, with Application to Face  
 
 
 
