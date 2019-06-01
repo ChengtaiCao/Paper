@@ -28,9 +28,11 @@
 
 
 >Papers I'm going to read:
->>Meta-Learning: A Survey  
->>Meta-Learning with Memory-Augmented Neural Networks  
->>Deep Learning based Recommender System: A Survey and New Perspectives  
->>Probabilistic Model-Agnostic Meta-Learning  
->>Meta-Learning and Universality: Deep Representation and Gradient Desecnt Can Approximate Any Learning Algorithm  
+>>DeepLink: A Deep Learning Approach for User Identity Linkage  
+>>Disentangled Network Alignment with Matching Explainability  
+>>Hamming Distance Metric Learning  
+>>Learning to Compare: Relation Network for Few-Shot Learning  
+>>Matching networks for one shot learning  
+>>OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
+>>REGAL: Representation Learning-based Graph Alignment  
 
