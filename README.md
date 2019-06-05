@@ -29,10 +29,10 @@
 
 >Papers I'm going to read:
 >>DeepLink: A Deep Learning Approach for User Identity Linkage  
->>Disentangled Network Alignment with Matching Explainability  
 >>Hamming Distance Metric Learning  
 >>Learning to Compare: Relation Network for Few-Shot Learning  
 >>Matching networks for one shot learning  
 >>OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
 >>REGAL: Representation Learning-based Graph Alignment  
+>>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
 
