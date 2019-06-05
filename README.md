@@ -24,7 +24,7 @@
 >>(23)Prototypical networks for few-shot learning.  
 >>(24)Siamese neural networks for one-shot image recognition  
 >>(25)Learning a Similarity Metric Discriminatively, with Application to Face  
-
+>>(26)Disentangled Network Alignment with Matching Explainability  
 
 
 >Papers I'm going to read:
