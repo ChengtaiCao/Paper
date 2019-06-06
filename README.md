@@ -35,4 +35,9 @@
 >>OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
 >>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
+>>Aligning Users across Social Networks Using Network Embedding  
+>>Mapping Users across Networks by Manifold Alignment on Hypergraph  
+>>MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks  
+>>Meta Diagram based Active Social Networks Alignment  
+>>XINA Explainable Instance Alignment using Dominance Relationship (Extended abstract)  
 
