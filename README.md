@@ -25,6 +25,7 @@
 >>(24)Siamese neural networks for one-shot image recognition  
 >>(25)Learning a Similarity Metric Discriminatively, with Application to Face  
 >>(26)Disentangled Network Alignment with Matching Explainability  
+>>(27)OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
 
 
 >Papers I'm going to read:
@@ -32,7 +33,6 @@
 >>Hamming Distance Metric Learning  
 >>Learning to Compare: Relation Network for Few-Shot Learning  
 >>Matching networks for one shot learning  
->>OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
 >>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
 >>Aligning Users across Social Networks Using Network Embedding  
