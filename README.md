@@ -28,12 +28,12 @@
 >>(27)OAG: Toward Linking Large-scale Heterogeneous Entity Graphs  
 >>(28)Matching networks for one shot learning  
 >>(29)Zero-shot Neural Transfer for Cross-lingual Entity Linking  
+>>(30)Learning to Compare: Relation Network for Few-Shot Learning  
 
 
 >Papers I'm going to read:
 >>DeepLink: A Deep Learning Approach for User Identity Linkage  
 >>Hamming Distance Metric Learning  
->>Learning to Compare: Relation Network for Few-Shot Learning  
 >>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
 >>Aligning Users across Social Networks Using Network Embedding  
