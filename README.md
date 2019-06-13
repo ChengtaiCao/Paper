@@ -29,10 +29,10 @@
 >>(28)Matching networks for one shot learning  
 >>(29)Zero-shot Neural Transfer for Cross-lingual Entity Linking  
 >>(30)Learning to Compare: Relation Network for Few-Shot Learning  
+>>(31)DeepLink: A Deep Learning Approach for User Identity Linkage  
 
 
 >Papers I'm going to read:
->>DeepLink: A Deep Learning Approach for User Identity Linkage  
 >>Hamming Distance Metric Learning  
 >>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
