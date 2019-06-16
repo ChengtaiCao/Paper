@@ -40,3 +40,4 @@
 >>Mapping Users across Networks by Manifold Alignment on Hypergraph  
 >>MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks  
 >>Meta Diagram based Active Social Networks Alignment  
+>>Position-aware Graph Neural Networks  
