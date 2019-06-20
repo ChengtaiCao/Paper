@@ -30,13 +30,13 @@
 >>(29)Zero-shot Neural Transfer for Cross-lingual Entity Linking  
 >>(30)Learning to Compare: Relation Network for Few-Shot Learning  
 >>(31)DeepLink: A Deep Learning Approach for User Identity Linkage  
+>>(32)Aligning Users across Social Networks Using Network Embedding  
 
 
 >Papers I'm going to read:
 >>Hamming Distance Metric Learning  
 >>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
->>Aligning Users across Social Networks Using Network Embedding  
 >>Mapping Users across Networks by Manifold Alignment on Hypergraph  
 >>MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks  
 >>Meta Diagram based Active Social Networks Alignment  
