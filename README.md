@@ -31,6 +31,7 @@
 >>(30)Learning to Compare: Relation Network for Few-Shot Learning  
 >>(31)DeepLink: A Deep Learning Approach for User Identity Linkage  
 >>(32)Aligning Users across Social Networks Using Network Embedding  
+>>(33)Cross-Network Embedding for Multi-Network Alignment  
 
 
 >Papers I'm going to read:
