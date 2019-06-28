@@ -33,6 +33,7 @@
 >>(32)Aligning Users across Social Networks Using Network Embedding  
 >>(33)Cross-Network Embedding for Multi-Network Alignment  
 >>(34)TransLink: User Identity Linkage across Heterogeneous Social Networks via Translating Embeddings  
+>>(35)REGAL: Representation Learning-based Graph Alignment  
 
 
 >Papers I'm going to read:
