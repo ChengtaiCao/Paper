@@ -32,6 +32,7 @@
 >>(31)DeepLink: A Deep Learning Approach for User Identity Linkage  
 >>(32)Aligning Users across Social Networks Using Network Embedding  
 >>(33)Cross-Network Embedding for Multi-Network Alignment  
+>>(34)TransLink: User Identity Linkage across Heterogeneous Social Networks via Translating Embeddings  
 
 
 >Papers I'm going to read:
