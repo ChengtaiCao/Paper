@@ -34,11 +34,11 @@
 >>(33)Cross-Network Embedding for Multi-Network Alignment  
 >>(34)TransLink: User Identity Linkage across Heterogeneous Social Networks via Translating Embeddings  
 >>(35)REGAL: Representation Learning-based Graph Alignment  
+>>(36)Optimization as a model for few-shot learning  
 
 
 >Papers I'm going to read:
 >>Hamming Distance Metric Learning  
->>REGAL: Representation Learning-based Graph Alignment  
 >>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
 >>Mapping Users across Networks by Manifold Alignment on Hypergraph  
 >>MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks  
