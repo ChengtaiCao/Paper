@@ -35,6 +35,7 @@
 >>(34)TransLink: User Identity Linkage across Heterogeneous Social Networks via Translating Embeddings  
 >>(35)REGAL: Representation Learning-based Graph Alignment  
 >>(36)Optimization as a model for few-shot learning  
+>>(37)Linking users across domains with location data: Theory and validation  
 
 
 >Papers I'm going to read:
