@@ -39,6 +39,7 @@
 >>(38)Exploiting Spatio-Temporal User Behaviors for User Linkage  
 >>(39)Effective and Efficient User Account Linkage Across Location Based Social Networks  
 >>(40)DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data  
+>>(41)Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification  
 
 
 >Papers I'm going to read:
