@@ -43,12 +43,3 @@
 >>(42)Content Attention Model for Aspect Based Sentiment Analysis  
 >>(43)Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning  
 
-
->Papers I'm going to read:
->>Hamming Distance Metric Learning  
->>Identifying Corresponding Patches in SAR and Optical Images With a Pseudo-Siamese CNN  
->>Mapping Users across Networks by Manifold Alignment on Hypergraph  
->>MEgo2Vec: Embedding Matched Ego Networks for User Alignment Across Social Networks  
->>Meta Diagram based Active Social Networks Alignment  
->>Position-aware Graph Neural Networks  
->>Provable Guarantees for Gradient-Based Meta-Learning  
