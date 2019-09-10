@@ -42,4 +42,4 @@
 >>(41)Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification  
 >>(42)Content Attention Model for Aspect Based Sentiment Analysis  
 >>(43)Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning  
-
+>>(44)Cross-Language Text Classification using Structural Correspondence Learning  
