@@ -43,3 +43,4 @@
 >>(42)Content Attention Model for Aspect Based Sentiment Analysis  
 >>(43)Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning  
 >>(44)Cross-Language Text Classification using Structural Correspondence Learning  
+>>(45)Semi-supervised representation learning for cross-lingual text classification  
