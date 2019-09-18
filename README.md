@@ -44,3 +44,4 @@
 >>(43)Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning  
 >>(44)Cross-Language Text Classification using Structural Correspondence Learning  
 >>(45)Semi-supervised representation learning for cross-lingual text classification  
+>>(46)Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network  
