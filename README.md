@@ -46,3 +46,4 @@
 >>(45)Semi-supervised representation learning for cross-lingual text classification  
 >>(46)Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network  
 >>(47)Affective Image Content Analysis: A Comprehensive Survey  
+>>(48)Building a large scale dataset for image emotion recognition: The fine print and the benchmark  
