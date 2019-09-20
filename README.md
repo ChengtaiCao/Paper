@@ -47,3 +47,4 @@
 >>(46)Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network  
 >>(47)Affective Image Content Analysis: A Comprehensive Survey  
 >>(48)Building a large scale dataset for image emotion recognition: The fine print and the benchmark  
+>>(49)Retrieving and classifying affective images via deep metric learning  
