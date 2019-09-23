@@ -48,3 +48,4 @@
 >>(47)Affective Image Content Analysis: A Comprehensive Survey  
 >>(48)Building a large scale dataset for image emotion recognition: The fine print and the benchmark  
 >>(49)Retrieving and classifying affective images via deep metric learning  
+>>(50)Affective image classification using features inspired by psychology and art theory  
