@@ -50,3 +50,4 @@
 >>(49)Retrieving and classifying affective images via deep metric learning  
 >>(50)Affective image classification using features inspired by psychology and art theory  
 >>(51)Visual Sentiment Prediction with Deep Convolutional Neural Networks  
+>>(52)From pixels to sentiment: Fine-tuning CNNs for visual sentiment prediction  
