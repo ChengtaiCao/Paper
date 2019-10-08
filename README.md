@@ -53,3 +53,4 @@
 >>(52)From pixels to sentiment: Fine-tuning CNNs for visual sentiment prediction  
 >>(53)Learning multi-level deep representations for image emotion classification  
 >>(54)Dependency Exploitation: A Unified CNN-RNN Approach for Visual Emotion Recognition  
+>>(55)Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm  
