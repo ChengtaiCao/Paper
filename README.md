@@ -55,3 +55,4 @@
 >>(54)Dependency Exploitation: A Unified CNN-RNN Approach for Visual Emotion Recognition  
 >>(55)Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm  
 >>(56)Recasting Gradient-Based Meta-Learning as Hierarchical Bayes  
+>>(57)Probabilistic Model-Agnostic Meta-Learning  
