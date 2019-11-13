@@ -56,3 +56,6 @@
 >>(55)Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm  
 >>(56)Recasting Gradient-Based Meta-Learning as Hierarchical Bayes  
 >>(57)Probabilistic Model-Agnostic Meta-Learning  
+>>(58)A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation  
+>>(59)Latent Ordinary Differential Equations for Irregularly-Sampled Time Series  
+>>(60)Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning  
