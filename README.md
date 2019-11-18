@@ -59,3 +59,4 @@
 >>(58)A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation  
 >>(59)Latent Ordinary Differential Equations for Irregularly-Sampled Time Series  
 >>(60)Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning  
+>>(61)Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts  
