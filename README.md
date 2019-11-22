@@ -62,3 +62,4 @@
 >>(61)Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts  
 >>(62)STELLAR: Spatial-Temporal Latent Ranking for Successive Point-of-Interest Recommendation  
 >>(63)What to Do Next: Modeling User Behaviors by Time-LSTM  
+>>(64)Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks  
