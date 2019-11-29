@@ -69,3 +69,5 @@
 >>(68) Graph Few-shot Learning via Knowledge Transfer  
 >>(69) Three scenarios for continual learning  
 >>(70) Continuous-Time Dynamic Network Embeddings  
+>>(71) Online Meta-Learning  
+>>(72) iCaRL: Incremental Classifier and Representation Learning  
