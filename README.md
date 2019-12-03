@@ -74,3 +74,4 @@
 >>(73) An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks  
 >>(74) Selective Experience Replay for Lifelong Learning  
 >>(75) On Tiny Episodic Memories in Continual Learning  
+>>(76) Variational Graph Auto-Encoders  
