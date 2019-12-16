@@ -76,3 +76,4 @@
 >>(75) On Tiny Episodic Memories in Continual Learning  
 >>(76) Variational Graph Auto-Encoders  
 >>(77) Experience Replay for Continual Learning  
+>>(78) Continual Learning with Deep Generative Replay  
