@@ -78,3 +78,4 @@
 >>(77) Experience Replay for Continual Learning  
 >>(78) Continual Learning with Deep Generative Replay  
 >>(79) Causal Inference in Time Series via Supervised Learning  
+>>(80) Continual Classification Learning Using Generative Models  
