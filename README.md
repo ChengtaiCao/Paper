@@ -79,3 +79,4 @@
 >>(78) Continual Learning with Deep Generative Replay  
 >>(79) Causal Inference in Time Series via Supervised Learning  
 >>(80) Continual Classification Learning Using Generative Models  
+>>(81) Pseudo-Recursal: Solving the Catastrophic Forgetting Problem in Deep Neural Networks  
