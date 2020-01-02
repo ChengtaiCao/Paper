@@ -81,3 +81,4 @@
 >>(80) Continual Classification Learning Using Generative Models  
 >>(81) Pseudo-Recursal: Solving the Catastrophic Forgetting Problem in Deep Neural Networks  
 >>(82) Understanding Black-box Predictions via Influence Functions  
+>>(83) Lifelong Generative Modeling  
