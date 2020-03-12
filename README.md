@@ -82,3 +82,6 @@
 >>(81) Pseudo-Recursal: Solving the Catastrophic Forgetting Problem in Deep Neural Networks  
 >>(82) Understanding Black-box Predictions via Influence Functions  
 >>(83) Lifelong Generative Modeling  
+>>(84) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction  
+>>(85) Exploiting Spatiotemporal Patterns for Accurate Air Quality Forecasting using Deep Learning  
+>>(86) Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference  
