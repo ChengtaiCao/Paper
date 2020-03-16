@@ -85,3 +85,4 @@
 >>(84) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction  
 >>(85) Exploiting Spatiotemporal Patterns for Accurate Air Quality Forecasting using Deep Learning  
 >>(86) Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference  
+>>(87) Deep Distributed Fusion Network for Air Quality Prediction  
