@@ -86,3 +86,12 @@
 >>(85) Exploiting Spatiotemporal Patterns for Accurate Air Quality Forecasting using Deep Learning  
 >>(86) Matrix Completion with Variational Graph Autoencoders: Application in Hyperlocal Air Quality Inference  
 >>(87) Deep Distributed Fusion Network for Air Quality Prediction  
+>>(88) Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering  
+>>(89) Diffusion-Convolutional Neural Networks  
+>>(90) Learning Convolutional Neural Networks for Graphs  
+>>(91) LINE: Large-scale Information Network Embedding  
+>>(92) Neural Network for Graphs A Contextual Constructive Approach  
+>>(93) Node2vec: Scalable Feature Learning for Networks  
+>>(94) Revisiting Semi-Supervised Learning with Graph Embeddings  
+>>(95) Spectral Networks and Deep Locally Connected Networks on Graphs  
+>>(96) XGBoost: A Scalable Tree Boosting System  
