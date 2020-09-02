@@ -96,3 +96,4 @@
 >>(95) Spectral Networks and Deep Locally Connected Networks on Graphs  
 >>(96) XGBoost: A Scalable Tree Boosting System  
 >>(97) On the Accuracy of Influence Functions for Measuring Group Effects  
+>>(98) GNNExplainer: Generating Explanations for Graph Neural Networks  
