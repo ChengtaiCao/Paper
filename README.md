@@ -99,3 +99,15 @@
 >>(98)  GNNExplainer: Generating Explanations for Graph Neural Networks  
 >>(99)  Distributed representations of words and phrases and their compositionality  
 >>(100) Distributed Representations of Sentences and Documents  
+>>(101) Adaptive Unsupervised Feature Selection on Attributed Networks  
+>>(102) A Survey of Learning Causality with Data: Problems and Methods  
+>>(103) Counterfactual Evaluation of Treatment Assignment Functions with Networked Observational Data  
+>>(104) IGNITE: A Minimax Game Toward Learning Individual Treatment Effects from Networked Observational Data  
+>>(105) Learning Individual Treatment Effects from Networked Observational Data  
+>>(106) Node centrality measures are a poor substitute for causal inference  
+>>(107) Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method  
+>>(108) The seven tools of causal inference, with reflections on machine learning  
+>>(109) "Why Should I Trust You?": Explaining the Predictions of Any Classifier  
+>>(110) Predict then Propagate: Graph Neural Networks meet Personalized PageRank  
+>>(111) Watch Your Step_ Learning Node Embeddings via Graph Attention  
+>>(112) Using Embeddings to Correct for Unobserved Confounding in Networks  
