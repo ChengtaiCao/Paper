@@ -109,5 +109,9 @@
 >>(108) The seven tools of causal inference, with reflections on machine learning  
 >>(109) "Why Should I Trust You?": Explaining the Predictions of Any Classifier  
 >>(110) Predict then Propagate: Graph Neural Networks meet Personalized PageRank  
->>(111) Watch Your Step_ Learning Node Embeddings via Graph Attention  
+>>(111) Watch Your Step Learning Node Embeddings via Graph Attention  
 >>(112) Using Embeddings to Correct for Unobserved Confounding in Networks  
+>>(113) Causal Inference in Time Series via Supervised Learning  
+>>(114) Causal Inference under Networked Interference and Intervention Policy  
+>>(115) Understanding Attention and Generalization in Graph Neural Networks  
+>>(116) Inferring Network Effects from Observational Data  
